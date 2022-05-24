@@ -1,0 +1,6 @@
+{
+    "promotion_discount_price": "{price}원~",
+    "promotion_hotdeal_day_time" : "{day}일 {time} 남음",
+    "promotion_hotdeal_time": "{time} 남음",
+    "promotion_hotdeal_all": "<em>소진시</em> 종료"
+}
